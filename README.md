@@ -9,7 +9,7 @@ Le but etant de trouver le plus petit carré possible pour X tetriminos donnée 
 les informations du tetriminos sont stocké dans un fichier.
 Chaque tetriminos est unique ici même si ils ont la même formes.
 
-Exemple de fichier :
+### Exemple de fichier :
 ```
 ####
 ....
@@ -26,7 +26,7 @@ Exemple de fichier :
 ....
 ....
 ```
-  # Nous avons:
+  ### Nous avons:
 ```
 ####
 ...#
