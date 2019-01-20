@@ -1,7 +1,6 @@
 # Fillit
 Trouver la plus petit map possible pour le remplissage des tetriminos
 
-## 1 :
 Le projet Consiste principalement à decouvrir la notion du backtracking, d'analyse de fichier/arguments mais aussi le travail
 en groupe.
 
