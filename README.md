@@ -27,9 +27,9 @@ Chaque tetriminos est unique ici même si ils ont la même formes.
 ```
   ### Nous avons:
 ```
-####
-...#
-####
-.###
+AAAA
+...B
+CCBB
+.CCB
 ```
-Nous l'analysons en premiers temps, puis nous le résolvons.
+Nous l'analysons en premiers temps, puis nous le résolvons (on print l'alphabet pour se repèrer).
