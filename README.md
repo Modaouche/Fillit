@@ -32,4 +32,5 @@ AAAA
 CCBB
 .CCB
 ```
+Si le fichier passé est invalide , alors un message d'erreur s'affiche et termine son execution.
 Nous l'analysons en premiers temps, puis nous le résolvons (on print l'alphabet pour se repèrer).
