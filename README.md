@@ -10,26 +10,27 @@ les informations du tetriminos sont stocké dans un fichier.
 Chaque tetriminos est unique ici même si ils ont la même formes.
 
 Exemple de fichier :
->####
->....
->....
->....
+```
+####
+....
+....
+....
   
->....
->.#..
->##..
->.#..
+....
+.#..
+##..
+.#..
 
->`##..
->`.##.
->`....
->`....
-
+##..
+.##.
+....
+....
+```
   # Nous avons:
-  
->`####
->`...#
->`####
->`.###
-
+```
+####
+...#
+####
+.###
+```
 Nous l'analysons en premiers temps, puis nous le résolvons.
